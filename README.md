@@ -16,4 +16,4 @@ npm start
 
 ## Screenshot Example
 
-![Example](images/example.png)
+![Example](public/img/example.png)
