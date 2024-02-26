@@ -24,7 +24,7 @@ const RetroTheme = createTheme({
           style: {
             fontWeight: "bold",
             border: `4px solid black`,
-            color: "orange"
+            color: "orange",
           }
         }
       ],

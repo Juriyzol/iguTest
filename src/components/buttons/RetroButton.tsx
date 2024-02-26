@@ -18,7 +18,8 @@ const RetroButton: React.FC<RetroButtonProps> = ({ setCombatTime, isCombat }) =>
       loadingIndicator="Figniting..."
       size="medium"
       startIcon={<Icon>star</Icon>}
-      sx={{ 
+      sx={{
+        textAlign: "center",
         mt: 2,
         ml: 2,
       }}
